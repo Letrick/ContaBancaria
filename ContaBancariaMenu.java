@@ -61,7 +61,7 @@ public class ContaBancaria {
 				break;
 
 			default:
-				System.out.println("OpÁ„o inv·lida.");
+				System.out.println("Op√ß√£o inv√°lida.");
 			}
 
 			if (opcao == 1) {
@@ -130,7 +130,7 @@ public class ContaBancaria {
 
 			else {
 
-				System.out.println("OpÁ„o inv·lida.");
+				System.out.println("Op√ß√£o inv√°lida.");
 			}
 
 		} while (opcao == 0);
